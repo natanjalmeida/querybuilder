@@ -8,7 +8,7 @@
             "email": "natanjalmeida@gmail.com"
         }
     ],
-    "minimum-stability": "main",
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
