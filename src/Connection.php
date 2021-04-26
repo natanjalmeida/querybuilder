@@ -11,7 +11,7 @@
 
     namespace QueryBuilder;
 
-    use QueryBuilder\QueryBuilder\QueryBuilder;
+    use QueryBuilder\QB\QueryBuilder;
     use QueryBuilder\Query;
 
     class Connection 
