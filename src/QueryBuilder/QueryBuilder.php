@@ -10,10 +10,10 @@
      * @link https://github.com/natanjalmeida/querybuilder
      */
 
-    namespace App\Libraries\Embryo\PDO\QueryBuilder;
+    namespace Natanjalmeida\QueryBuilder\QueryBuilder;
     
-    use App\Libraries\Embryo\PDO\QueryBuilder\Query;
-    use App\Libraries\Embryo\PDO\QueryBuilder\Traits\{AliasesTrait, ComposeQueryTrait};
+    use Natanjalmeida\QueryBuilder\QueryBuilder\Query;
+    use Natanjalmeida\QueryBuilderQueryBuilder\Traits\{AliasesTrait, ComposeQueryTrait};
     
     class QueryBuilder
     {

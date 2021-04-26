@@ -9,7 +9,7 @@
      * @link https://github.com/natanjalmeida/querybuilder
      */
 
-    namespace App\Libraries\Embryo\PDO\QueryBuilder;
+    namespace Natanjalmeida\QueryBuilder\QueryBuilder;
 
     class Query 
     {

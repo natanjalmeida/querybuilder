@@ -9,9 +9,9 @@
      * @link https://github.com/natanjalmeida/querybuilder
      */
     
-    namespace App\Libraries\Embryo\PDO;
+    namespace Natanjalmeida\QueryBuilder;
 
-    use App\Libraries\Embryo\PDO\Connection;
+    use Natanjalmeida\QueryBuilder\Connection;
 
     class Database
     {
