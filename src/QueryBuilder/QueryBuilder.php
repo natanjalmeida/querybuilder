@@ -10,10 +10,10 @@
      * @link https://github.com/natanjalmeida/querybuilder
      */
 
-    namespace Natanjalmeida\QueryBuilder\QueryBuilder;
+    namespace QueryBuilder\QueryBuilder;
     
-    use Natanjalmeida\QueryBuilder\QueryBuilder\Query;
-    use Natanjalmeida\QueryBuilderQueryBuilder\Traits\{AliasesTrait, ComposeQueryTrait};
+    use QueryBuilder\QueryBuilder\Query;
+    use QueryBuilderQueryBuilder\Traits\{AliasesTrait, ComposeQueryTrait};
     
     class QueryBuilder
     {

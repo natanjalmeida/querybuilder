@@ -9,9 +9,9 @@
      * @link https://github.com/natanjalmeida/querybuilder
      */
     
-    namespace Natanjalmeida\QueryBuilder;
+    namespace QueryBuilder;
 
-    use Natanjalmeida\QueryBuilder\Connection;
+    use QueryBuilder\Connection;
 
     class Database
     {

@@ -9,7 +9,7 @@
      * @link https://github.com/natanjalmeida/querybuilder
      */
 
-    namespace Natanjalmeida\QueryBuilder\QueryBuilder;
+    namespace QueryBuilder\QueryBuilder;
 
     class Query 
     {
